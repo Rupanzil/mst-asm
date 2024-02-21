@@ -1,0 +1,9 @@
+body {
+    background-color: #424242;
+    color: rgb(231, 229, 226);
+}
+
+textarea, h3 {
+    margin: 0;
+    padding: 0;
+}
